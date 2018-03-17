@@ -32,5 +32,8 @@
 .block {
     font-family: 'Quicksand', sans-serif;
     font-size: 2em;
-    margin: auto;
+    font-weight: bold;
+    margin-top: 1%;
+    margin-bottom: 10%;
+    text-align: center;
 }
