@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 .my {
     padding: 10px 40px;
-    background-color: gainsboro;
+    background-color: #dcdcdc;
 }
 
 .my a {
@@ -26,7 +26,7 @@
 }
 
 .proj {
-    background-color: gainsboro;
+    background-color: #dcdcdc;
 }
 
 .block {
